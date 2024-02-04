@@ -1,0 +1,232 @@
+[0201/190752.050:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/190752.058:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/190752.065:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/190752.075:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191153.945:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191153.952:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191153.953:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191153.953:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/191153.954:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191153.954:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/191154.021:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191154.032:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191154.047:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191154.055:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191154.940:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191154.940:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191400.473:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191400.480:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191400.480:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191400.480:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191400.481:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/191400.481:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191400.481:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/191400.481:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191400.493:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191400.512:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191401.346:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191401.347:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191424.097:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191424.108:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191424.123:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191424.134:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191424.134:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191424.134:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191424.134:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/191424.134:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191424.134:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/191424.180:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191424.845:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191424.845:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191434.145:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191434.145:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191434.147:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191434.158:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191434.158:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/191434.158:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/191434.158:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/191434.192:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191434.208:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191434.216:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/191434.992:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/191434.993:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/192058.449:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/192058.457:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192058.464:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/192058.464:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/192058.473:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192058.474:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/192058.474:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/192058.474:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/192058.487:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192058.512:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192059.366:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/192059.366:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/192442.685:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192442.690:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/192442.701:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192442.705:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/192442.705:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/192442.703:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/192442.707:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/192442.707:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/192442.708:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192442.715:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192443.590:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/192443.590:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/192530.582:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/192530.589:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/192530.590:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/192530.590:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/192530.590:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/192530.590:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/192530.606:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192530.615:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192530.625:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192530.635:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/192531.499:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/192531.499:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/193452.544:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/193452.553:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/193452.572:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/193452.572:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/193452.574:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/193452.574:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/193452.574:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/193452.574:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/193452.574:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/193452.585:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/193453.652:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/193453.653:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/193824.706:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/193824.713:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/193824.716:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/193824.716:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/193824.722:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/193824.723:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/193824.723:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/193824.723:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/193824.723:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/193824.728:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/193825.453:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/193825.456:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194132.698:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194132.704:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194132.704:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194132.723:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194132.723:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194132.724:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194132.733:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194132.758:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194132.768:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194132.780:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194133.579:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194133.579:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194157.839:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194157.848:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194157.854:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194157.854:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194157.854:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194157.859:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194157.860:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194157.860:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194157.861:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194157.869:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194158.566:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194158.566:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194224.893:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194224.900:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194224.909:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194224.912:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194224.912:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194224.913:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194224.913:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194224.919:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194224.927:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194224.936:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194225.853:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194225.853:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194236.548:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194236.551:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194236.553:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194236.560:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194236.561:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194236.561:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194236.561:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194236.567:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194236.578:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194236.603:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194237.391:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194237.391:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194342.714:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194342.738:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194342.753:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194342.801:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194342.806:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194342.819:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194342.819:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194342.822:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194342.823:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194342.823:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194343.603:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194343.605:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194615.862:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194615.867:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194615.868:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194615.868:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194615.869:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194615.869:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194615.870:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194615.880:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194615.891:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194615.900:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194616.416:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194616.416:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194636.231:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194636.232:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194636.236:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194636.236:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194636.240:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194636.248:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194636.255:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194636.260:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194636.268:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194636.268:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194637.116:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194637.116:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194649.428:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194649.431:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194649.433:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194649.441:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194649.449:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194649.449:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194649.450:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194649.450:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194649.451:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194649.464:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194650.284:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194650.284:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194713.592:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194713.594:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194713.594:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194713.595:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194713.595:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194713.595:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194713.624:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194713.632:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194713.639:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194713.647:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194714.335:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194714.336:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194750.439:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194750.450:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194750.450:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194750.451:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194750.451:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194750.452:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194750.452:ERROR:disk_cache.cc(205)] Unable to create cache
+[0201/194750.452:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[0201/194750.458:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194750.469:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata: IO error: C:\Users\faf20\OneDrive\Desktop\project2\projecttrynew\projecttrynew\project\home-value\cache\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0201/194751.208:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0201/194751.208:ERROR:disk_cache.cc(205)] Unable to create cache
